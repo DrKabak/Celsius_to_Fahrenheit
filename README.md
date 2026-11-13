@@ -12,7 +12,7 @@ A lightweight web utility for real-time temperature conversion between Celsius a
 * **Logic:** Vanilla JavaScript (ES6+)
 
 ## Live Demo
-You can test the application live here: [GitHub Pages Linkiniz Buraya Gelecek]
+You can test the application live here: https://drkabak.github.io/Celsius_to_Fahrenheit/
 
 ## How It Works
 The application leverages JavaScript event listeners to capture user input in real-time. It applies the standard conversion formula `(°C × 9/5) + 32 = °F` (and vice versa) to dynamically update the DOM tree without requiring page reloads.
